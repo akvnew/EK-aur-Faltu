@@ -141,7 +141,7 @@ int n;
 			cout<<"length of sever: "<<ls<<endl;
 			cout<<"WQ: "<<wq<<endl;
 			cout<<"WS: "<<ws<<endl;
-			
+			cout<<"WS: "<<ws<<endl;
 			
 		}
 		
